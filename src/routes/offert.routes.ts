@@ -1,4 +1,4 @@
-import OfferController from "@/controllers/offer.controller";
+import OfferController from "../controllers/offer.controller";
 import { Router } from "express";
 
 const router = Router()

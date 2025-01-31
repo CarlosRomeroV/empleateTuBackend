@@ -1,5 +1,5 @@
 
-import { OfferService } from '@/services/offer.services';
+import { OfferService } from '../services/offer.services';
 import { NextFunction } from 'express';
 
 export default class OfferController {
