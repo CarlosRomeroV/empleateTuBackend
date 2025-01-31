@@ -1,5 +1,5 @@
-import { AuthService } from "@/services/auth.services";
-import { UserService } from "@/services/user.services";
+import { AuthService } from "../services/auth.services";
+import { UserService } from "../services/user.services";
 import { PrismaClient } from "@prisma/client";
 import express, {Response, Request, response} from "express"
 
